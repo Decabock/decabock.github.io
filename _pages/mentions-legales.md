@@ -8,9 +8,8 @@ toc_label: "Contenu"
 toc_icon: "balance-scale"
 ---
 
-# Mentions légales
-
 Conformément aux dispositions des articles 6-III et 19 de la loi n°2004-575 du 21 juin 2004 pour la Confiance dans l’Économie Numérique (LCEN), il est porté à la connaissance des utilisateurs et visiteurs du site **{{ site.title | default: "Nom du site" }}** les présentes mentions légales.
+{: .text-justify}
 
 ---
 
@@ -55,43 +54,55 @@ Site web : [https://www.ovh.com/](https://www.ovh.com/)
 ## 3. Propriété intellectuelle
 
 L’ensemble des éléments du site (textes, images, graphismes, logo, icônes, etc.) sont la propriété exclusive de **Decabock**, sauf mention contraire.
+{: .text-justify}
 
 Toute reproduction, représentation, modification, publication, adaptation, totale ou partielle, de ces éléments, par quelque moyen que ce soit, est interdite sans autorisation écrite préalable.
+{: .text-justify}
 
 ---
 
 ## 4. Données personnelles (RGPD)
 
 Les informations recueillies via le formulaire de contact sont enregistrées par **Decabock** dans le but exclusif de répondre aux demandes des utilisateurs.  
+{: .text-justify}
 Elles sont conservées pendant une durée maximale de **1 an** et ne sont transmises à aucun tiers.
+{: .text-justify}
 
 Conformément au **Règlement Général sur la Protection des Données (RGPD)** et à la loi « Informatique et Libertés », vous disposez d’un droit d’accès, de rectification, de suppression et d’opposition concernant vos données.  
+{: .text-justify}
 Vous pouvez exercer ces droits en écrivant à :  
 📧 **pcarteron.decabock@gmail.com**
 
 Pour plus d’informations, vous pouvez consulter le site de la CNIL : [https://www.cnil.fr](https://www.cnil.fr)
+{: .text-justify}
 
 ---
 
 ## 5. Cookies
 
 Le site peut utiliser des cookies à des fins de statistiques ou d’amélioration de l’expérience utilisateur.  
+{: .text-justify}
 Vous pouvez paramétrer votre navigateur pour refuser les cookies.
+{: .text-justify}
 
 ---
 
 ## 6. Limitation de responsabilité
 
 **Decabock** s’efforce d’assurer l’exactitude des informations présentes sur ce site. Toutefois, il ne pourra être tenu responsable des erreurs ou omissions, ni de l’indisponibilité de certaines informations.
+{: .text-justify}
 
 Le site peut contenir des liens vers d’autres sites. **Decabock** décline toute responsabilité quant au contenu de ces sites externes.
+{: .text-justify}
 
 ---
 
 ## 7. Droit applicable
 
 Les présentes mentions légales sont régies par le droit français.  
+{: .text-justify}
 Tout litige relatif à l’interprétation ou à l’exécution du présent document relève de la compétence des tribunaux français.
+{: .text-justify}
 
 ---
 
