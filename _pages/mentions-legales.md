@@ -43,7 +43,7 @@ Le site est hébergé par :
 San Francisco, CA 94107, États-Unis  
 Site web : [https://pages.github.com/](https://pages.github.com/)
 
-**Nom de domaine enregistré auprès de :**  
+Nom de domaine enregistré auprès de :
 
 **OVH SAS**  
 2 rue Kellermann, 59100 Roubaix, France  
