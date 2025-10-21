@@ -4,7 +4,8 @@
     "name": "Bientôt super tata & tonton",
     "images": [
       "/assets/images/designs/bientot_tata_tonton/Bientôt_super_tata_&_tonton.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/bientot_tata_tonton/Bientôt_super_tata_&_tonton-DB.png",
+      "/assets/images/designs/bientot_tata_tonton/Bientôt_super_tata_&_tonton-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -13,7 +14,7 @@
     "name": "C'est pas l'homme qui prends l'apéro",
     "images": [
       "/assets/images/designs/homme_prends_apero/C&apos;est l&apos;apéro qui prends l&apos;homme.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/homme_prends_apero/C&apos;est l&apos;apéro qui prends l&apos;homme-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -22,7 +23,8 @@
     "name": "C'est pas Versailles ici",
     "images": [
       "/assets/images/designs/pas_versailles/C&apos;est pas versailles ici.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/pas_versailles/C&apos;est pas versailles ici-DB.png",
+      "/assets/images/designs/pas_versailles/C&apos;est pas versailles ici-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -31,7 +33,8 @@
     "name": "Family",
     "images": [
       "/assets/images/designs/family/Family_full.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/family/Family_full-DB.png",
+      "/assets/images/designs/family/Family_full-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -40,7 +43,8 @@
     "name": "Je râle pas, je m'exprime",
     "images": [
       "/assets/images/designs/rale_pas/Je râle pas je m&apos;exprime.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/rale_pas/Je râle pas je m&apos;exprime-DB.png",
+      "/assets/images/designs/rale_pas/Je râle pas je m&apos;exprime-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -49,7 +53,8 @@
     "name": "Je ronfle pas, je ronronne",
     "images": [
       "/assets/images/designs/ronfle_pas/Je ronfle pas je ronronne.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/ronfle_pas/Je ronfle pas je ronronne-DB.png",
+      "/assets/images/designs/ronfle_pas/Je ronfle pas je ronronne-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -58,8 +63,7 @@
     "name": "Je suis pas gourmand",
     "images": [
       "/assets/images/designs/pas_gourmand/je_suis_pas_gourmand-Design.png",
-      "/assets/images/designs/pas_gourmand/je_suis_pas_gourmand-DB.png",
-      "/assets/images/designs/pas_gourmand/je_suis_pas_gourmand-Bouchon.png"
+      "/assets/images/designs/pas_gourmand/je_suis_pas_gourmand-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -68,7 +72,8 @@
     "name": "L'apéro cest la vie",
     "images": [
       "/assets/images/designs/apero_c_est_la_vie/L&apos;apéro c&apos;est la vie.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/apero_c_est_la_vie/L&apos;apéro c&apos;est la vie-DB.png",
+      "/assets/images/designs/apero_c_est_la_vie/L&apos;apéro c&apos;est la vie-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -77,7 +82,7 @@
     "name": "Le vin s'améliore avec l'âge",
     "images": [
       "/assets/images/designs/vin_ameliore_avec_age/Le vin s&apos;améliore avec l&apos;âge_full.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/vin_ameliore_avec_age/Le vin s&apos;améliore avec l&apos;âge_full-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -86,7 +91,7 @@
     "name": "La vie est trop courte",
     "images": [
       "/assets/images/designs/vie_trop_courte/La vie est trop courte pour boire du mauvais vin.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/vie_trop_courte/La vie est trop courte pour boire du mauvais vin-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -95,7 +100,8 @@
     "name": "Pour la meilleur maman du monde",
     "images": [
       "/assets/images/designs/meilleur_maman/Pour_la_meilleure_maman_du_monde.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/meilleur_maman/Pour_la_meilleure_maman_du_monde-DB.png",
+      "/assets/images/designs/meilleur_maman/Pour_la_meilleure_maman_du_monde-Bouchon.png"
     ],
     "products": ["Decabock"]
   },
@@ -104,7 +110,8 @@
     "name": "Parce que le meilleur papa du monde",
     "images": [
       "/assets/images/designs/meilleur_papa/Meilleur_papa.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/meilleur_papa/Meilleur_papa-DB.png",
+      "/assets/images/designs/meilleur_papa/Meilleur_papa-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
