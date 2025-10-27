@@ -120,7 +120,8 @@
     "name": "On planche sur l'apéro",
     "images": [
       "/assets/images/designs/planche_sur_apero/On planche sur_l&apos;apéro.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/planche_sur_apero/On planche sur_l&apos;apéro-DB.png",
+      "/assets/images/designs/planche_sur_apero/On planche sur_l&apos;apéro-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -129,7 +130,7 @@
     "name": "Pastis par temps bleu",
     "images": [
       "/assets/images/designs/pastis_par_temps_bleu/Pastis par temps bleu.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/pastis_par_temps_bleu/Pastis par temps bleu-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -138,7 +139,7 @@
     "name": "Préservez l'eau, buvez des cocktails",
     "images": [
       "/assets/images/designs/preserver_eau/Préservez l&apos;eau, buvez des cocktails.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/preserver_eau/Préservez l&apos;eau, buvez des cocktails-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -147,7 +148,8 @@
     "name": "Toc toc apéro",
     "images": [
       "/assets/images/designs/toc_toc_apero/Toc toc apéro.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/toc_toc_apero/Toc toc apéro-DB.png",
+      "/assets/images/designs/toc_toc_apero/Toc toc apéro-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -156,7 +158,7 @@
     "name": "L'argent ne fait pas le bonheur",
     "images": [
       "/assets/images/designs/argent_ne_fais_bonheur/L&apos;argent ne fait pas le bonheur.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/argent_ne_fais_bonheur/L&apos;argent ne fait pas le bonheur-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -165,7 +167,7 @@
     "name": "Il n'y a qu'une seule race",
     "images": [
       "/assets/images/designs/une_seul_race/Il n&apos;y a qu&apos;une seule race-.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/une_seul_race/Il n&apos;y a qu&apos;une seule race-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -174,7 +176,8 @@
     "name": "Jamais trop tôt pour l'apéro",
     "images": [
       "/assets/images/designs/jamais_trop_tot_apero/Jamais trop tot pour l&apos;apero.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/jamais_trop_tot_apero/Jamais trop tot pour l&apos;apero-DB.png",
+      "/assets/images/designs/jamais_trop_tot_apero/Jamais trop tot pour l&apos;apero-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -183,7 +186,8 @@
     "name": "Mais où est donc mon ri card",
     "images": [
       "/assets/images/designs/mais_ou_est_donc_mon_ricard/Mais ou est donc mon ri car.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/mais_ou_est_donc_mon_ricard/Mais ou est donc mon ri car-DB.png",
+      "/assets/images/designs/mais_ou_est_donc_mon_ricard/Mais ou est donc mon ri car-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -192,7 +196,7 @@
     "name": "J'ai une descente",
     "images": [
       "/assets/images/designs/ai_une_descente/J&apos;ai une descente.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/ai_une_descente/J&apos;ai une descente-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -201,7 +205,8 @@
     "name": "Crois moi tu peux danser",
     "images": [
       "/assets/images/designs/crois_moi_tu_peux_danser/Crois moi, tu peux danser.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/crois_moi_tu_peux_danser/Crois moi, tu peux danser-DB.png",
+      "/assets/images/designs/crois_moi_tu_peux_danser/Crois moi, tu peux danser-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -210,7 +215,8 @@
     "name": "Avez-vous bu ?",
     "images": [
       "/assets/images/designs/avez_vous_bu/Avez vous bu.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/avez_vous_bu/Avez vous bu-DB.png",
+      "/assets/images/designs/avez_vous_bu/Avez vous bu-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -219,7 +225,8 @@
     "name": "Ici, ici c'est La Rochelle",
     "images": [
       "/assets/images/designs/ici_c_est_la_rochelle/ici_ici_c_est_la_rochelle.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/ici_c_est_la_rochelle/ici_ici_c_est_la_rochelle-DB.png",
+      "/assets/images/designs/ici_c_est_la_rochelle/ici_ici_c_est_la_rochelle-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -237,7 +244,8 @@
     "name": "Sur le port de La Rochelle",
     "images": [
       "/assets/images/designs/sur_le_port_la_rochelle/Sur le port de La rochelle.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/sur_le_port_la_rochelle/Sur le port de La rochelle-DB.png",
+      "/assets/images/designs/sur_le_port_la_rochelle/Sur le port de La rochelle-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -246,7 +254,8 @@
     "name": "J'peux pas j'ai apéro",
     "images": [
       "/assets/images/designs/je_peux_pas_j_ai_apero/J&apos;peux pas j&apos;ai apéro.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/je_peux_pas_j_ai_apero/J&apos;peux pas j&apos;ai apéro-DB.png",
+      "/assets/images/designs/je_peux_pas_j_ai_apero/J&apos;peux pas j&apos;ai apéro-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -255,7 +264,8 @@
     "name": "Qui aime le vin, aime la vie",
     "images": [
       "/assets/images/designs/qui_aime_vin_aime_vie/Aime le vin aime la vie.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/qui_aime_vin_aime_vie/Aime le vin aime la vie-DB.png",
+      "/assets/images/designs/qui_aime_vin_aime_vie/Aime le vin aime la vie-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -264,7 +274,7 @@
     "name": "Boire un canon, c'est sauver un vigneron",
     "images": [
       "/assets/images/designs/boire_un_canon/Boir un canon c&apos;est sauver un vigneron.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/boire_un_canon/Boir un canon c&apos;est sauver un vigneron-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -273,7 +283,8 @@
     "name": "Place de l'apéro",
     "images": [
       "/assets/images/designs/place_de_l_apero/Place de l&apos;apéro.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/place_de_l_apero/Place de l&apos;apéro-DB.png",
+      "/assets/images/designs/place_de_l_apero/Place de l&apos;apéro-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -282,7 +293,7 @@
     "name": "Citation de Baudelaire",
     "images": [
       "/assets/images/designs/citation_baudelaire/UnHommeQuiNeBoitQueDeLEauAUnSecret.jpg",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/citation_baudelaire/UnHommeQuiNeBoitQueDeLEauAUnSecret-DB.jpg"
     ],
     "products": ["Decabock"]
   },
@@ -291,7 +302,8 @@
     "name": "L'alcool ne peut pas aider",
     "images": [
       "/assets/images/designs/alcool_ne_peut_pas_aider/L&apos;alcool ne peut pas résoudre.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/alcool_ne_peut_pas_aider/L&apos;alcool ne peut pas résoudre-DB.png",
+      "/assets/images/designs/alcool_ne_peut_pas_aider/L&apos;alcool ne peut pas résoudre-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -300,7 +312,8 @@
     "name": "Quoi l'alcool c'est pas cool ?",
     "images": [
       "/assets/images/designs/quoi_alcool_c_est_pas_cool/L&apos;alcool c&apos;est pas cool.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/quoi_alcool_c_est_pas_cool/L&apos;alcool c&apos;est pas cool-DB.png",
+      "/assets/images/designs/quoi_alcool_c_est_pas_cool/L&apos;alcool c&apos;est pas cool-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -309,7 +322,7 @@
     "name": "La suite au prochain apéro",
     "images": [
       "/assets/images/designs/suite_prochaine_apero/La suite au prochaine apéro.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/suite_prochaine_apero/La suite au prochaine apéro-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -318,7 +331,7 @@
     "name": "Quel que soit le problème",
     "images": [
       "/assets/images/designs/quel_que_soit_le_probleme/Quel Que Soit Le Probleme.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/quel_que_soit_le_probleme/Quel Que Soit Le Probleme-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -327,7 +340,7 @@
     "name": "Tous les chemins mènent au rhum",
     "images": [
       "/assets/images/designs/tous_les_chemins/Tous les chemins menent au rhum.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/tous_les_chemins/Tous les chemins menent au rhum-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -336,7 +349,8 @@
     "name": "Tout travail mérite sa bière",
     "images": [
       "/assets/images/designs/tout_travail_merite_biere/Tout travail mérite sa bière.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/tout_travail_merite_biere/Tout travail mérite sa bière-DB.png",
+      "/assets/images/designs/tout_travail_merite_biere/Tout travail mérite sa bière-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -345,7 +359,8 @@
     "name": "Bon appétit",
     "images": [
       "/assets/images/designs/bon_appetit/Bon appétit.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/bon_appetit/Bon appétit-DB.png",
+      "/assets/images/designs/bon_appetit/Bon appétit-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -354,7 +369,8 @@
     "name": "C'est l'heure de l'apéro",
     "images": [
       "/assets/images/designs/c_est_heure_de_l_apero/c&apos;est l&apos;heure de l&apos;apéro.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/c_est_heure_de_l_apero/c&apos;est l&apos;heure de l&apos;apéro-DB.png",
+      "/assets/images/designs/c_est_heure_de_l_apero/c&apos;est l&apos;heure de l&apos;apéro-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -363,7 +379,7 @@
     "name": "C'est pas le wifi qui connecte les gens",
     "images": [
       "/assets/images/designs/c_est_pas_le_wifi/c&apos;est pas le wifi qui connecte les gens.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/c_est_pas_le_wifi/c&apos;est pas le wifi qui connecte les gens-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -371,8 +387,9 @@
     "id": "DB-041",
     "name": "Cheese to please",
     "images": [
-      "/assets/images/designs/cheese_to_please/Chease to please.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/cheese_to_please/Cheese to please.png",
+      "/assets/images/designs/cheese_to_please/Cheese to please-DB.png",
+      "/assets/images/designs/cheese_to_please/Cheese to please-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -381,7 +398,8 @@
     "name": "Charcuterie",
     "images": [
       "/assets/images/designs/charcuterie/Charcuterie.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/charcuterie/Charcuterie-DB.png",
+      "/assets/images/designs/charcuterie/Charcuterie-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -390,7 +408,7 @@
     "name": "Cuisine, saveurs et traditions",
     "images": [
       "/assets/images/designs/cuisine/Cuisine Saveurs et traditions.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/cuisine/Cuisine Saveurs et traditions-DB.png"
     ],
     "products": ["Decabock"]
   },
@@ -399,7 +417,8 @@
     "name": "Je suis venu, j'ai bu, je me souviens plus",
     "images": [
       "/assets/images/designs/je_suis_venu_j_ai_bu/Je suis venu, j&apos;ai bu, je me souviens plus.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/je_suis_venu_j_ai_bu/Je suis venu, j&apos;ai bu, je me souviens plus-DB.png",
+      "/assets/images/designs/je_suis_venu_j_ai_bu/Je suis venu, j&apos;ai bu, je me souviens plus-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
@@ -408,7 +427,8 @@
     "name": "Les copains d'abord",
     "images": [
       "/assets/images/designs/les_copains_d&apos;abord/Les copains d&apos;abord.png",
-      "/assets/images/designs/defApero.jpg"
+      "/assets/images/designs/les_copains_d&apos;abord/Les copains d&apos;abord-DB.png",
+      "/assets/images/designs/les_copains_d&apos;abord/Les copains d&apos;abord-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
