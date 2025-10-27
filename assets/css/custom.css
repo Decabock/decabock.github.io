@@ -470,11 +470,14 @@ table span {
   overflow: hidden;
   transition: transform 0.3s ease, opacity 0.3s ease;
   cursor: pointer;
+  box-shadow: 0 4px 8px rgba(130, 130, 130, 0.2); /* Ombre par défaut */
+  transition: transform 0.3s ease, opacity 0.3s ease, box-shadow 0.3s ease; /* Animation fluide de l'ombre */
 }
 
 .gallery-item:hover {
   transform: scale(1.1);
   z-index: 10;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
 .gallery-item:not(:hover) {
@@ -491,7 +494,9 @@ table span {
 
 /* Modal */
 .modal {
-  display: none;
+  display: flex; /* Permet le centrage vertical/horizontal */
+  justify-content: center;
+  align-items: center;
   position: fixed;
   z-index: 1000;
   left: 0;
@@ -505,8 +510,8 @@ table span {
 .modal-content {
   margin: auto;
   display: block;
-  max-width: 80%;
-  max-height: 80%;
+  max-width: 90%; /* Au lieu de 80% pour occuper plus d'espace */
+  max-height: 90%;
   margin-top: 5%;
 }
 

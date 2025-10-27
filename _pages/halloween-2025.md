@@ -49,8 +49,6 @@ Cette collection spéciale **Halloween 2025** est disponible **jusqu’au 15 nov
 Passé ce délai, les monstres retourneront dans l’ombre... 👻
 
 ## 📸 Galerie
-
-## 📸 Galerie
 <div class="gallery-container">
   <div class="gallery-grid">
     <div class="gallery-item" onclick="openModal('/assets/images/events/2025-10-31-nouvelle-collection-halloween-2025/cyclope.png')">
@@ -91,6 +89,7 @@ Passé ce délai, les monstres retourneront dans l’ombre... 👻
 <script>
   function openModal(imageSrc) {
     const modal = document.getElementById("imageModal");
+    modal.style.display = "flex"; // Changé de "block" à "flex" pour activer le centrage
     const modalImg = document.getElementById("modalImage");
     modal.style.display = "block";
     modalImg.src = imageSrc;
