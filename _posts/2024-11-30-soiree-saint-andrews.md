@@ -1,5 +1,5 @@
 ---
-title: "Première participation à la soirée Saint-Andrews avec le Twinning Committee"
+title: "Première participation à la soirée Saint-Andrews avec le Twinning Committee 🎉"
 date: 2024-11-30
 categories:
   - Événements

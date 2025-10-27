@@ -1,5 +1,5 @@
 ---
-title: "Notre premier marché de Noël chez Groupama Nanterre"
+title: "Notre premier marché de Noël chez Groupama Nanterre 🎅"
 date: 2024-12-20
 categories:
   - Événements
