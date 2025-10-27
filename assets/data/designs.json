@@ -421,5 +421,15 @@
       "/assets/images/designs/vendredi_c_est_apero_avec_les_voisins/Vendredi_c'est_apéro_avec_les_voisins-DB.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
+  },
+  {
+    "id": "DB-047",
+    "name": "Position GPS",
+    "images": [
+      "/assets/images/designs/position_gps/Modèle_localisation_GPS.png",
+      "/assets/images/designs/position_gps/Modèle_localisation_GPS-Bouchon.png",
+      "/assets/images/designs/position_gps/Modèle_localisation_GPS-DB.png"
+    ],
+    "products": ["Bouchons de vin", "Decabock"]
   }
 ]
