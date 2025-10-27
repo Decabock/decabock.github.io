@@ -1,5 +1,5 @@
 ---
-title: "Nouveau design : Localisation GPS personnalisée"
+title: "🧭 Nouveau design : Localisation GPS personnalisée"
 date: 2025-01-25
 categories:
   - Nouveautés
@@ -13,10 +13,7 @@ tags:
 excerpt: "Découvrez notre tout nouveau design mettant en valeur la localisation GPS de votre ville préférée. Un concept unique et entièrement personnalisable sur nos différents produits."
 ---
 
-## 🧭 Nouveau design : Localisation GPS personnalisée
-
-Chez **Decabock**, nous sommes ravis de vous présenter notre **nouvelle création graphique** :  
-un design inspiré des coordonnées GPS permettant d’afficher **la localisation exacte de votre ville**.
+Chez **Decabock**, nous sommes ravis de vous présenter notre **nouvelle création graphique** : un design inspiré des coordonnées GPS permettant d’afficher **la localisation exacte de votre ville**.
 
 Chaque visuel reprend :
 - **Le nom de la ville de votre choix**
@@ -32,7 +29,6 @@ Ce design est disponible pour **toutes les villes du monde**, sur demande.
 Vous pouvez ainsi personnaliser :
 - **Nos Decabocks**
 - **Sous-verres**
-- **Affiches**
 - **Et d’autres produits artisanaux** selon vos envies
 
 > *Chaque création est unique, conçue sur mesure à partir de votre lieu préféré.*
