@@ -89,9 +89,8 @@ Passé ce délai, les monstres retourneront dans l’ombre... 👻
 <script>
   function openModal(imageSrc) {
     const modal = document.getElementById("imageModal");
-    modal.style.display = "flex"; // Changé de "block" à "flex" pour activer le centrage
+    modal.style.display = "flex";
     const modalImg = document.getElementById("modalImage");
-    modal.style.display = "block";
     modalImg.src = imageSrc;
   }
 

@@ -494,9 +494,7 @@ table span {
 
 /* Modal */
 .modal {
-  display: flex; /* Permet le centrage vertical/horizontal */
-  justify-content: center;
-  align-items: center;
+  display: none;
   position: fixed;
   z-index: 1000;
   left: 0;
@@ -505,12 +503,13 @@ table span {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.9);
   overflow: auto;
+  margin: 0;
 }
 
 .modal-content {
   margin: auto;
   display: block;
-  max-width: 90%; /* Au lieu de 80% pour occuper plus d'espace */
+  max-width: 90%;
   max-height: 90%;
   margin-top: 5%;
 }
