@@ -4,8 +4,8 @@
     "name": "Bientôt super tata & tonton",
     "images": [
       "/assets/images/designs/bientot_tata_tonton/Bientôt_super_tata_&_tonton.png",
-      "/assets/images/designs/bientot_tata_tonton/Bientôt_super_tata_&_tonton-DB.png",
-      "/assets/images/designs/bientot_tata_tonton/Bientôt_super_tata_&_tonton-Bouchon.png"
+      "/assets/images/designs/bientot_tata_tonton/Bientôt_super_tata_&_tonton.png-DB.png",
+      "/assets/images/designs/bientot_tata_tonton/Bientôt_super_tata_&_tonton.png-Bouchon.png"
     ],
     "products": ["Bouchons de vin", "Decabock"]
   },
