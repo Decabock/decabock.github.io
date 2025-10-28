@@ -27,8 +27,7 @@ Découvrez nos **créations uniques**, dessinées spécialement pour cette édit
 
 ### 🕯️ Les Decabock “effet horreur”
 
-En plus de ces nouveaux visuels, découvrez une **édition spéciale de nos Decabock**,  
-**percés en leur centre** pour renforcer le **côté macabre et décalé** du design.
+En plus de ces nouveaux visuels, découvrez une **édition spéciale de nos Decabock**, **percés en leur centre** pour renforcer le **côté macabre et décalé** du design.
 
 > *Une idée cadeau originale ou un objet déco unique pour fêter Halloween avec style.*
 
@@ -45,8 +44,7 @@ Cette série est disponible **uniquement jusqu’au 31 novembre 2025** — aprè
 
 ### 👁️ Découvrez les visuels
 
-Rendez-vous sur la [page des designs Halloween]({{ '/designs/halloween-2025/' | relative_url }})  
-pour admirer chaque création et choisir votre coup de cœur monstrueux.
+Rendez-vous sur la [page des designs Halloween]({{ '/designs/halloween-2025/' | relative_url }}) pour admirer chaque création et choisir votre coup de cœur monstrueux.
 
 **Préparez votre maison pour un Halloween artisanal et unique.**  
 ➡️ [Voir la collection complète]({{ '/boutique/' | relative_url }})
