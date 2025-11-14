@@ -46,7 +46,6 @@ Cette série est disponible **uniquement jusqu’au 31 novembre 2025** — aprè
 
 Rendez-vous sur la [page des designs Halloween]({{ '/designs/halloween-2025/' | relative_url }}) pour admirer chaque création et choisir votre coup de cœur monstrueux.
 
-**Préparez votre maison pour un Halloween artisanal et unique.**  
-➡️ [Voir la collection complète]({{ '/boutique/' | relative_url }})
+**Préparez votre maison pour un Halloween artisanal et unique.**
 
 *Crédit visuel : Decabock – Collection Halloween 2025*
